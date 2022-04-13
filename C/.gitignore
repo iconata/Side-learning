@@ -2,3 +2,6 @@ bin
 obj
 .vs
 .vscode/launch.json
+.docx
+.pdf
+.exe
