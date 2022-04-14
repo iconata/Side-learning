@@ -4,4 +4,5 @@ obj
 .vscode/launch.json
 .docx
 .pdf
-.exe
+**/*.exe
+test.c
